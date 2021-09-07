@@ -7,7 +7,7 @@ This repository stores a raytracer written in C++. The following features are no
 * A movable camera with control on resolution, FOV, roll, position and direction
 
 <img src="images/sample.png"> 
-<img src="images/sample3.jpg">
+<img src="images/sample3.jpg" align="center">
 
 ## Running instructions 
 Clone this repository locally, preferably on a Linux machine.
