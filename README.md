@@ -13,8 +13,8 @@ This repository stores a raytracer written in C++. The following features are no
 Clone this repository locally, preferably on a Linux machine.
 Then in the working directory, run:
 ```
-g++ *.cpp -o executable
-./executable
+$ g++ *.cpp -o executable
+$ ./executable
 ```
 To generate different images, the user can alter the lookfrom, look to and other
 camera properties in main.cpp. The set of objects can be altered by creating more instances
