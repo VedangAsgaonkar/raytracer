@@ -6,6 +6,8 @@ This repository stores a raytracer written in C++. The following features are no
 * Sphere class as an implementation of hitable
 * A movable camera with control on resolution, FOV, roll, position and direction
 
+<img src="images/sample.png"> 
+
 ## Running instructions 
 Clone this repository locally, preferably on a Linux machine.
 Then in the working directory, run:
